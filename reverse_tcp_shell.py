@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 
 #  Hear ye, hear ye, all who seek the root beer.
 #  I gift upon ye code that will aid you in your
