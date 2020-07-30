@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 #  Hear ye, hear ye, all who seek the root beer.
 #  I gift upon ye code that will aid you in your
 #  journey!  Seek the hidden jewels and find the
